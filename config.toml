@@ -6,3 +6,4 @@ sectionPagesMenu = "main"
 
 [params]
   avatar = 'avatar.jpg'
+  author = 'The Humble Tardigrade'
