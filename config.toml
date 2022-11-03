@@ -2,6 +2,7 @@ baseURL = 'https://tardigrade.0x9.uk/'
 languageCode = 'en-us'
 title = 'Tardigrades are Tardigreat'
 theme = 'pulp'
+sectionPagesMenu = "main"
 
 [params]
   avatar = 'avatar.jpg'
